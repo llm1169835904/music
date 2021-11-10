@@ -1,0 +1,15 @@
+*{margin: 0;
+padding: 0;}
+.fl{float: left;}
+.fr{float: right;}
+body{
+    background: #F1F3F4;
+}
+li{
+    list-style: none;
+}
+.clear{clear: both;}
+body{padding-right:0px!important}
+.el-popup-parent--hidden {
+  overflow: initial !important;
+}
