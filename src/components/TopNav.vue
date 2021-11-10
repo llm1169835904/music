@@ -20,7 +20,7 @@
         class="fr login-title"
         v-if="token === '' || token === null"
         @click="dialogVisible = true"
-        >登录</span
+        >电此登录</span
       >
       <el-dropdown class="fr user-pic" @command="quitBtn" v-else>
         <span class="el-dropdown-link">
